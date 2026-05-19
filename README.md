@@ -1,0 +1,1 @@
+# superpowers-spec-driven-development-claude
